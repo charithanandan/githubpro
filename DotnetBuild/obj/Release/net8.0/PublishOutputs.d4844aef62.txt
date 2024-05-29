@@ -1,0 +1,7 @@
+C:\Users\Dell\Desktop\Demo2\DotnetBuild\bin\Release\net8.0\publish\DotnetBuild.exe
+C:\Users\Dell\Desktop\Demo2\DotnetBuild\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\Dell\Desktop\Demo2\DotnetBuild\bin\Release\net8.0\publish\appsettings.json
+C:\Users\Dell\Desktop\Demo2\DotnetBuild\bin\Release\net8.0\publish\DotnetBuild.dll
+C:\Users\Dell\Desktop\Demo2\DotnetBuild\bin\Release\net8.0\publish\DotnetBuild.deps.json
+C:\Users\Dell\Desktop\Demo2\DotnetBuild\bin\Release\net8.0\publish\DotnetBuild.runtimeconfig.json
+C:\Users\Dell\Desktop\Demo2\DotnetBuild\bin\Release\net8.0\publish\DotnetBuild.pdb
